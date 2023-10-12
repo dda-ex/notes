@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "e6b62ca39af124a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9c56f71c945d208",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97ff681402cadffb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed1c85fde8949397",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bash/Bash.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8de5022ac7b54a48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bash/Bash.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8d5fc586c9f1a549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bc55b5ce356b257",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb727a96edef11a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e94bebccd16615d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "16c5978e947e034f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "756c6d31af8fbd43",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "93ea105ddb018557",
+    "type": "split",
+    "children": [
+      {
+        "id": "52155fe4cfc6a29d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0e2acd42c9a9f19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae594d5271301dbc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "256d09f572e19b97",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8d5fc586c9f1a549",
+  "lastOpenFiles": [
+    "Bash/Bash.md",
+    "Git.md",
+    "Untitled",
+    "Git",
+    "README.md",
+    "Untitled.canvas",
+    "Bash/Untitled.md",
+    "Bash"
+  ]
+}
