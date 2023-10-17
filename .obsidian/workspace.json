@@ -23,6 +23,7 @@
               "state": {
                 "file": "Bash/Bash.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": true
               }
             }
@@ -46,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "VM/Juice Shop.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "VM/Juice Shop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "VM/Juice Shop.md"
               }
             }
           }
@@ -167,10 +168,11 @@
   "active": "8d5fc586c9f1a549",
   "lastOpenFiles": [
     "Bash/Bash.md",
+    "VM/Juice Shop.md",
+    "README.md",
     "Git.md",
     "Untitled",
     "Git",
-    "README.md",
     "Untitled.canvas",
     "Bash/Untitled.md",
     "Bash"

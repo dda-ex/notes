@@ -2,4 +2,4 @@
 Personal notes about themes that I used to forget.
 
 ## Index
-1. [[Bash]]
+1. Bash [[Bash]]
