@@ -7,7 +7,7 @@ Personal notes about themes that I used to forget.
 2. CS 
 	1. [[Random numbers]]
 3. Programming
-	4. Backdoor
+	1. Backdoor
 		1. [[Backdoor code]]
 4. Hacking
 	1. Enumeration
@@ -17,3 +17,4 @@ Personal notes about themes that I used to forget.
 		4. [[ssh enumeration]]
 	2. Shared files
 		1. [[nfs and cifs]]
+		2. [[transfer files]] / web server and ftp
