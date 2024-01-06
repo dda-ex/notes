@@ -1,4 +1,4 @@
 # SQLite
 
-Fast intrepretation fo sqlite file
+Fast interpretation fo sqlite file
 `strings <FILE>.sqlite`
