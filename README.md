@@ -19,6 +19,6 @@ Personal notes about themes that I used to forget.
 		1. [[nfs and cifs]]
 		2. [[transfer files]] / web server and ftp
 5.  Linux - General
-	1. [[Threshold Battery]]
+	1. [[Battery Threshold]]
 	2. [[Bluetooth]]
 	3. [[Touchpad]]
