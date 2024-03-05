@@ -18,3 +18,7 @@ Personal notes about themes that I used to forget.
 	2. Shared files
 		1. [[nfs and cifs]]
 		2. [[transfer files]] / web server and ftp
+5.  Linux - General
+	1. [[Threshold Battery]]
+	2. [[Bluetooth]]
+	3. [[Touchpad]]
